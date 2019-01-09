@@ -1,4 +1,8 @@
 # Black_friday_competition
+
+Black friday is a competition of data analytics vidya<br/>
+it is a good place to start if you dont know much about machine learning and want to learn more about it<br/>
+
 Black friday competion getting ~500 rank
 Understanding Problem Statement:
 
