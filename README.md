@@ -40,3 +40,4 @@ We have used 2 models for this regression problem:
 
 
 We submit this code and our predictions to the datahack.analyticsvidhya and securing position on the leader board
+**later on I used XBG regressor to produce even better results but as you can see if linear regression can word as good as a complex regressor if you have preprocessed data and done some feature engineering**
